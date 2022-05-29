@@ -1,0 +1,3 @@
+# Scrimba React
+
+Solo projects
